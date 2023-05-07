@@ -1,0 +1,15 @@
+
+.bg-first{
+    /* background-image: url(https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg); */
+    height: 35vh;
+    width: 100vw;
+}
+.image-logo{
+    border-radius: 50%;
+}
+.vikash{
+    text-align: center;
+}
+.hower:hover{
+    background-color: brown;
+}
