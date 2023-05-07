@@ -61,7 +61,7 @@ const MainPage = () => {
                         <Card style={{ width: '18rem', border: 'none' }}>
                             <Card.Img variant="top" src="https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg" />
                             <Card.Body>
-                                <a href='http://localhost:3000/event' className='btn btn-primary'>MUSIC & DANCE SOCIETY</a>
+                                <a href='http://16.171.67.60:3000/event' className='btn btn-primary'>MUSIC & DANCE SOCIETY</a>
                             </Card.Body>
                         </Card>
                     </div>
